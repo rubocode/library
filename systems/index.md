@@ -10,4 +10,5 @@
 * [Design](design)
 * [Management](management)
 * [Objects](objects)
+* [Patterns](patterns)
 * [Processes](processes)
