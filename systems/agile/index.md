@@ -4,7 +4,7 @@
 
 ## Agile
 
-1. Adaptive Software Develoipment: A Collaborative Approach to Managing Complex Systems (Highsmith III, James A.: 1999): [_kindle_](https://www.amazon.com/Adaptive-Software-Development-Collaborative-Approach-ebook/dp/B00DY3KQSQ/)
+1. Adaptive Software Development: A Collaborative Approach to Managing Complex Systems (Highsmith III, James A.: 1999): [_kindle_](https://www.amazon.com/Adaptive-Software-Development-Collaborative-Approach-ebook/dp/B00DY3KQSQ/)
 1. Agile Software Development Ecosystems (Highsmith, Jim: 2002): [_paperback_](https://www.amazon.com/Agile-Software-Development-Ecosystems-Highsmith/dp/0201760436/)
 1. Agile Software Development: The Cooperative Game, 2ed (Cockburn, Alistair: 2006): [_kindle_](https://www.amazon.com/Agile-Software-Development-Cooperative-Game-ebook/dp/B0027976NG/)
 1. Clean Code: A Handbook of Agile Software Craftsmanship, 2ed (Martin, Robert C.: 2025): [_kindle_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B0FPFZTZYY/)
