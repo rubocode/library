@@ -8,7 +8,6 @@
 * [Analysis](analysis)
 * [Architecture](architecture)
 * [Design](design)
-* [General](general)
 * [Management](management)
 * [Objects](objects)
 * [Patterns](patterns)
