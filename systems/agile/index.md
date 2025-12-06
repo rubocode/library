@@ -11,4 +11,4 @@
 1. Crystal Clear: A Human-Powered Methodology for Small Teams (Cockburn, Alistair: 2005): [_kindle_](https://www.amazon.com/Crystal-Clear-Human-Powered-Methodology-Development-ebook/dp/B00B8UX6K2/)
 1. Extreme Programming Explained: Embrace Change, 2ed (Beck, Kent; Andres, Cynthia: 2004): [_kindle_](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/)
 1. Organizational Patterns of Agile Software Development (Coplien, James O; Harrison, Neil B: 2004): [_paperback_](https://www.amazon.com/Organizational-Patterns-Agile-Software-Development/dp/0131467409/)
-1. The Agile Samurai: How Agile Masters Deliver Great Software (Rasmusson. Jonathan: 2020): [_kindle_](https://www.amazon.com/Agile-Samurai-Masters-Deliver-Software-ebook/dp/B0DPKCMJ5P/)
+1. The Agile Samurai: How Agile Masters Deliver Great Software (Rasmusson, Jonathan: 2020): [_kindle_](https://www.amazon.com/Agile-Samurai-Masters-Deliver-Software-ebook/dp/B0DPKCMJ5P/)
