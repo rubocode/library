@@ -9,4 +9,5 @@
 1. Programming on Purpose: Essays on Software Design (Plaugher, P.J.: 1993)
 1. The C Programming Language, 2ed (Kernighan, Brian W.; Ritchie, Dennis M.: 1988)
 1. The Design and Evolution of C++ (Stroustrup, Bjarne: 1994)
+1. The Design of Design: Essays from a Computer Scientist) (Brooks Jr, Frederick P.: 2010): [_kindle_](https://www.amazon.com/Design-Essays-Computer-Scientist-ebook/dp/B003DKG5H6/)
 1. The Standard C Library (Plaugher, P.J.: 1991)
