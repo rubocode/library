@@ -3,7 +3,7 @@
 ![banner](/library/photos/banner.png)
 
 
-## Agile Software Development
+## Agile
 
 1. Agile Software Development: The Cooperative Game, 2ed (Cockburn, Alistair: 2006): [_kindle_](https://www.amazon.com/Agile-Software-Development-Cooperative-Game-ebook/dp/B0027976NG/)
 1. Clean Code: A Handbook of Agile Software Craftsmanship, 2ed (Martin, Robert C.: 2025): [_kindle_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B0FPFZTZYY/)

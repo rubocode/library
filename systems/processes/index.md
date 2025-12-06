@@ -2,7 +2,7 @@
 
 ![banner](/library/photos/banner.png)
 
-## Business Processes
+## Processes
 
 1. ERP Demystified, 3ed (Leon, Alexis: 2014): [_paperback_](https://www.amazon.com/ERP-Demystif:ied-3-Alexis-Leon/dp/9339218752/)
 1. Essentials of Business Processes and Information Systems (Magal, Simha R; Word, Jeffrey: 2009): [_paperback_](https://www.amazon.com/Essentials-Business-Processes-Information-Systems/dp/0470230592/)

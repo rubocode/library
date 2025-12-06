@@ -2,7 +2,7 @@
 
 ![banner](/library/photos/banner.png)
 
-## Systems Analysis
+## Analysis
 
 1. Complete Systems Analysis: The Workbook, the Textbook, the Answers (Robertson, James; Robertson, Suzanne: 1994): [_kindle_](https://www.amazon.com/Complete-Systems-Analysis-Workbook-Textbook-ebook/dp/B0D248CD7B/)
 1. Fundamental Concepts of Information Modeling (Flavin, Matt: 1981): [_paperback_](https://www.amazon.com/Fundamental-Concepts-Information-Modeling-Flavin/dp/0133355896/)
