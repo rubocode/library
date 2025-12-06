@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/specs/photos/banner.png)
+![banner](/library/photos/banner.png)
 
 ## Systems 
 
