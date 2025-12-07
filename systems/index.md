@@ -11,4 +11,3 @@
 * [Management](management)
 * [Objects](objects)
 * [Patterns](patterns)
-* [Processes](processes)
